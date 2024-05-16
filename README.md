@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-05-15 132121](https://github.com/babblebey/tilconf-islands-architecture-talk/assets/25631971/976036fb-80d4-492f-ab5a-4c14d87347c1)
 
-This repository contains resources (consumed as reference) in the talk on Island Architecture present at **TILConf 2024**. The presentation discusses the challenges posed by JavaScript-heavy web applications and introduces Islands Architecture as a solution to these challenges. It explores the benefits of Islands, how they work, and compares them to Single Page Applications (SPA).
+This repository contains resources (consumed as reference) in the talk on Island Architecture presented at **TILConf 2024**. The presentation discusses the challenges posed by JavaScript-heavy web applications and introduces Islands Architecture as a solution to these challenges. It explores the benefits of Islands, how they work, and compares them to Single Page Applications (SPA).
 
 ## Presentation Slides
 
