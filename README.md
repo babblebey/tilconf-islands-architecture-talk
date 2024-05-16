@@ -6,7 +6,7 @@ This repository contains resources (consumed as reference) in the talk on Island
 
 ## Presentation Slides
 
-- ...... - Slides used in the presentation.
+- [Speaker Deck](https://speakerdeck.com/babblebey/islands-architecture-a-recipe-for-modern-web-performance-optimization) - Slides used in the presentation.
 
 ## Demo Websites
 
