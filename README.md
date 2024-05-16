@@ -37,7 +37,7 @@ This repository contains resources (consumed as reference) in the talk on Island
 
 ## Feedback and Contributions
 
-If you have feedback or would like to contribute to this repository, please [open an issue](link-to-issues) or [submit a pull request](link-to-pulls). Your contributions are welcome!
+If you have feedback or would like to contribute to this repository, please [open an issue](https://github.com/babblebey/tilconf-islands-architecture-talk/issues) or [submit a pull request](https://github.com/babblebey/tilconf-islands-architecture-talk/pulls). Your contributions are welcome!
 
 ## Support
 
