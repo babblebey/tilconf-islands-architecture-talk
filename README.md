@@ -1,4 +1,4 @@
-# Islands Architecture: A Recipe for Modern Web Web Performance Optimization
+# Islands Architecture: A Recipe for Modern Web Performance Optimization
 
 ![Screenshot 2024-05-15 132121](https://github.com/babblebey/tilconf-islands-architecture-talk/assets/25631971/976036fb-80d4-492f-ab5a-4c14d87347c1)
 
@@ -22,7 +22,6 @@ This repository contains resources (consumed as reference) in the talk on Island
 ## Related Articles and Resources
 
 - [Islands Architecture](https://jasonformat.com/islands-architecture/) - JASON's First explanation of Islands Architecture
-
 - [Islands Architecture](https://www.patterns.dev/vanilla/islands-architecture/) - Patterns.dev
 - [A Gentle Introduction to Islands](https://deno.com/blog/intro-to-islands) - Deno Blog
 
